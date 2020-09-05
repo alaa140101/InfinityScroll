@@ -44,6 +44,7 @@ h1 {
 .image-container img {
   margin-top: 5px;
   width: 100%;
+  border-radius: 10px;
 }
 
 /* Media Query: Large Small Devices */
